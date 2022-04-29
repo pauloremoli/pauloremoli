@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paulo Remoli</h1>
 <h3 align="center">A senior software enginner from Brazil currently living in Wroclaw, Poland</h3>
 
+- 🌱 I’m currently learning **Remix, ThreeJs, react-three-fiber**
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=pauloremoli&label=Profile%20views&color=0e75b6&style=flat" alt="pauloremoli" />
 </p>
