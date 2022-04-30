@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paulo Remoli</h1>
-<h3 align="center">A senior software enginner from Brazil currently living in Wroclaw, Poland</h3>
+<br/>
+<h3 >A senior software enginner from Brazil currently living in Wroclaw, Poland</h3>
 
 - 🌱 I’m currently learning **Remix, ThreeJs, react-three-fiber**
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=pauloremoli&label=Profile%20views&color=0e75b6&style=flat" alt="pauloremoli" />
-</p>
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/pauloremoli" target="blank">
@@ -99,4 +96,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloremoli&show_icons=true&locale=en" alt="pauloremoli" />
 </p>
+
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=pauloremoli&label=Profile%20views&color=0e75b6&style=flat" alt="pauloremoli" />
+</p>
+
 
