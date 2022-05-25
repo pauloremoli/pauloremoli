@@ -2,7 +2,6 @@
 <br/>
 <h3 >A senior software enginner from Brazil currently living in Wroclaw, Poland</h3>
 
-- 🌱 I’m currently learning **Remix, ThreeJs, react-three-fiber**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
