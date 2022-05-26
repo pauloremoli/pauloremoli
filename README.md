@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Remoli</h1>
 <br/>
-<h3 >A senior software enginner from Brazil currently living in Wroclaw, Poland</h3>
-
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
